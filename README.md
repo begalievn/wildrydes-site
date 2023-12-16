@@ -15,3 +15,4 @@ Amazon DynamoDB provides a persistence layer where data can be stored by the API
 
 ## 4. RESTful API
 JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway.
+Here we go.
